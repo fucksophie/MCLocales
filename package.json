@@ -1,0 +1,29 @@
+{
+  "name": "mclocales",
+  "version": "1.0.0",
+  "description": "A translation library, that's so easy to use!",
+  "main": "index.js",
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yourfriendoss/MCLocales.git"
+  },
+  "keywords": [
+    "translation",
+    "easy",
+    "quick",
+    "english",
+    "latin"
+  ],
+  "author": "yourfriend",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yourfriendoss/MCLocales/issues"
+  },
+  "homepage": "https://github.com/yourfriendoss/MCLocales#readme",
+  "devDependencies": {
+    "eslint": "^7.31.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-plugin-import": "^2.23.4"
+  }
+}
